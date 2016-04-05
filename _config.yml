@@ -1,0 +1,28 @@
+name: aattest
+favicon: null
+layout_spectrum: 0.8547277292236686
+typography_spectrum: 0.8556674409192055
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9132184076588601
+  lightness: 0.3757898532785475
+  saturation: 0.5321534886024892
+  rhythmicContrast: 0.7727350452914834
+purpose: []
